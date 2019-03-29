@@ -5,6 +5,7 @@
 > I = Internal Channel  
 
 # 2.0.0.2 (5662) B,A,I
+`2019/3/30`  
 This is the public beta testing version of Skyline 2.0, a major rewrite from the ground up.
 
 #### Feature:
@@ -21,6 +22,7 @@ This is the public beta testing version of Skyline 2.0, a major rewrite from the
 
 ---
 # 1.0.2 (2406) S,B,A,I
+`2018/2/1`  
 TO CUSTOMERS:
 Thanks for support & Sorry for the bugs! 
 Initially selected tech stack of Skyline as a prototype doesn't allow me do many optimizations but I am work on it. 
