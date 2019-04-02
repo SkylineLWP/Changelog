@@ -12,6 +12,7 @@
 #### Improved:
 - ZH-CN translation
 
+---
 # 2.0.0.2 (5662) S,B,A,I
 `2019/3/30`  
 This is the public beta testing version of Skyline 2.0, a major rewrite from the ground up.
