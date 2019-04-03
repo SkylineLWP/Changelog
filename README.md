@@ -4,7 +4,13 @@
 > A = Alpha Channel  
 > I = Internal Channel  
 
-# 2.0.0.2 (5670) S,A,I
+# 2.0.0.2 (5696) I
+`2019/4/4`  
+#### Fixed:
+Rotation related bug introduced by upgrading unity runtime
+
+---
+# 2.0.0.2 (5670) S,B,A,I
 `2019/4/2`  
 #### Fixed:
 - Half-screen blacked out in rare cases
@@ -15,7 +21,7 @@
 ---
 # 2.0.0.2 (5662) S,B,A,I
 `2019/3/30`  
-This is the public beta testing version of Skyline 2.0, a major rewrite from the ground up.
+This is the public beta testing version of Skyline 2.0, a major rewrite from the ground up
 
 #### Feature:
 - 5 map providers
@@ -30,7 +36,6 @@ This is the public beta testing version of Skyline 2.0, a major rewrite from the
 - Please report any issue you have! Thank you
 
 ---
-
 # 2.0.0.1 (5466) B,A,I
 `2018/11/11` 
 #### Fixed:
