@@ -4,7 +4,16 @@
 > A = Alpha Channel  
 > I = Internal Channel  
 
-# 2.0.0.2 (5696) I
+# 2.1.0.0 (6162) S,B,A,I
+`2019/6/2`  
+#### Fixed:
+Android Q related issues
+
+#### Added:
+Dark mode support
+
+---
+# 2.0.0.2 (5696) S,B,A,I
 `2019/4/4`  
 #### Fixed:
 Rotation related bug introduced by upgrading unity runtime
